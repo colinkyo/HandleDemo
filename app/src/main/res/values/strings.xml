@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandleDemo</string>
+    <string name="title_activity_looper_thread">LooperThread</string>
+</resources>
